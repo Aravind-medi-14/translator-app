@@ -1,12 +1,38 @@
-# React + Vite
+# 🌐 Language Translator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based web application that allows users to translate text between different languages using the **MyMemory Translation API**. The app also features **text-to-speech** and **copy-to-clipboard** functionalities for convenience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+![App Screenshot](https://github.com/user-attachments/assets/81aa3c07-d055-40ec-8701-f964365b6409)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ React (Hooks)
+- 🌐 MyMemory Translation API
+- 🗣️ Web Speech API (for speech synthesis)
+- 📦 FontAwesome Icons
+- 🧠 `useState` for state management
+- 📋 Clipboard API
+
+---
+
+## ⚙️ Features
+
+- 🔁 Translate text between **multiple languages**
+- 🔉 Read text aloud using **Text-to-Speech**
+- 📋 Copy translated or input text with one click
+- 🔄 Swap source and target languages
+- 🧠 Smart loading indication during translation
+
+---
+
+## 🚀 Deployment Link
+
+🌍 **Live Demo:** [Language Translator App](https://aravind-medi-14.github.io/Language-Translator-App/)
+
+---
